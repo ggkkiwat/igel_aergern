@@ -12,7 +12,7 @@ To play the game, you need Python installed on your computer. The game is compat
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/[YourUsername]/igel_aergern.git
+   git clone https://github.com/ggkkiwat/igel_aergern.git
    cd igel_aergern
    ```
 
@@ -48,10 +48,3 @@ Contributions to improve the game are welcome. If you have ideas or find a bug, 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-**Note**: 
-- Replace `[YourUsername]` with your actual GitHub username.
-- You may want to create additional files like `Game_Rules.md` or `LICENSE` to provide more detailed rules and licensing information.
-- This template provides a basic structure. Feel free to customize it to better fit your project's needs.
