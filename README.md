@@ -1,4 +1,4 @@
-# Igel Ärgern - Python Implementation
+# Igel Ärgern
 
 This repository contains a Python implementation of the popular German board game "Igel Ärgern". The game, whose name translates to "Hedgehogs in a Hurry", is a fun, strategic game for multiple players. This implementation allows you to play the game in a text-based format on your computer.
 
